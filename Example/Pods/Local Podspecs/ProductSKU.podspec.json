@@ -1,0 +1,27 @@
+{
+  "name": "ProductSKU",
+  "version": "0.1.0",
+  "summary": "A short description of ProductSKU.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/peiZheng1/ProductSKU",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "peiZheng1": "littlewangbig@163.com"
+  },
+  "source": {
+    "git": "https://github.com/peiZheng1/ProductSKU.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "ProductSKU/Classes/**/*",
+  "dependencies": {
+    "Masonry": [
+      "~> 1.1.0"
+    ]
+  }
+}

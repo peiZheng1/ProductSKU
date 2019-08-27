@@ -1,0 +1,6 @@
+framework module ProductSKU {
+  umbrella header "ProductSKU-umbrella.h"
+
+  export *
+  module * { export * }
+}

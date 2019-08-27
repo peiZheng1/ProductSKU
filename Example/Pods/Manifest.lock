@@ -1,0 +1,23 @@
+PODS:
+  - Masonry (1.1.0)
+  - ProductSKU (0.1.0):
+    - Masonry (~> 1.1.0)
+
+DEPENDENCIES:
+  - ProductSKU (from `../ProductSKU.podspec`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Masonry
+
+EXTERNAL SOURCES:
+  ProductSKU:
+    :path: "../ProductSKU.podspec"
+
+SPEC CHECKSUMS:
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+  ProductSKU: e00a01c8ba3f7ea76388cacbd3814588179cd9c1
+
+PODFILE CHECKSUM: c50d28a491dd6651834ac9ecfa9c2d2bbe4583f0
+
+COCOAPODS: 1.6.1
