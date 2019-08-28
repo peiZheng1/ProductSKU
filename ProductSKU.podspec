@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'ProductSKU'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = '商城中SKU选择弹窗'
 
 # This description is used to generate tags and improve search results.
@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 商城中SKU选择弹窗,详细用法参考demo(PZViewController),需要配置dataSource
                        DESC
 
-  s.homepage         = 'https://github.com/peiZheng1/ProductSKU.git'
+  s.homepage         = 'https://github.com/peiZheng1/ProductSKU'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'peiZheng1' => 'littlewangbig@163.com' }
